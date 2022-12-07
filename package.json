@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "npx parcel ./src/index.html"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "parcel": "^2.8.0",
+    "three": "^0.147.0"
+  }
+}
