@@ -2,7 +2,7 @@
 
 ## Pré-requisitos
 ```
-Node.js v16.15.1 ou mais recentes
+Node.js v16.15.1 ou mais recente
 ```
 
 ## Iniciando
